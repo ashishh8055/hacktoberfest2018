@@ -1,9 +1,9 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int sum(int a, int b)
+int sum(int x, int y)
 {
-    int sum = a + b;
-    cout << sum;
+    
+    cout << x + y;
 }
 int main()
 {
