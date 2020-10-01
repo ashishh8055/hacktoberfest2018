@@ -1,9 +1,5 @@
-/**
-* Binary Search
-* Author: Omkar Manjrekar
-**/
-#include<iostream>
-#include<stdlib.h>
+
+#include<bits/stdc++.h>
 using namespace std;
 
 int binsearch(int arr[], int l, int r, int x) 
